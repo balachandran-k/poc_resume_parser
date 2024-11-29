@@ -1,0 +1,6 @@
+com/procyon/resume/extract/util/ResumeFieldExtractor.class
+com/procyon/resume/extract/service/TikaService.class
+com/procyon/resume/extract/util/SkillExtractor.class
+com/procyon/resume/extract/ExtractApplication.class
+com/procyon/resume/extract/controller/TikaController.class
+com/procyon/resume/extract/service/ResumeParserService.class
